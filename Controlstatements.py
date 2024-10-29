@@ -1,4 +1,3 @@
-from webbrowser import Elinks
 
 num=int(input("enter number: "))
 

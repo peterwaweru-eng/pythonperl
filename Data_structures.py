@@ -22,3 +22,12 @@ employee={"name":"daniel","age":"55","salary":"45000"}
 
 print(employee)
 print(f"the name of employee is {employee['name']}")
+
+number=10
+
+if number>=10:
+    print("1")
+if number<10:
+    print("2")
+else:
+    print("3")
